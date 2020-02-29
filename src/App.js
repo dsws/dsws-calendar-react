@@ -4,11 +4,10 @@ import "./App.css";
 import DailyCalendar from "./comps/DailyCalendar/DailyCalendar";
 
 const events = [
-  { start: 30, end: 640 },
+  { start: 30, end: 150 },
   { start: 540, end: 600 },
   { start: 560, end: 620 },
-  { start: 610, end: 670 },
-  { start: 110, end: 125 }
+  { start: 610, end: 670 }
 ];
 
 function App() {
