@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a529f56153aff6f05168dc726844ff0",
+    "revision": "80b062db8901b024676640057ce2daf9",
     "url": "/dsws-calendar-react/index.html"
   },
   {
-    "revision": "14d95291f51464e16cf0",
-    "url": "/dsws-calendar-react/static/css/main.b171eb5c.chunk.css"
+    "revision": "7c909bb3e09d1554ce73",
+    "url": "/dsws-calendar-react/static/css/main.3e0f1114.chunk.css"
   },
   {
-    "revision": "7d347a38e2cb2ca08f2a",
-    "url": "/dsws-calendar-react/static/js/2.5e134b72.chunk.js"
+    "revision": "febaaeb54dbb5798881c",
+    "url": "/dsws-calendar-react/static/js/2.b99e443c.chunk.js"
   },
   {
     "revision": "5356fa2f66e46e6c05e4cbe319ac7f1d",
-    "url": "/dsws-calendar-react/static/js/2.5e134b72.chunk.js.LICENSE.txt"
+    "url": "/dsws-calendar-react/static/js/2.b99e443c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "14d95291f51464e16cf0",
-    "url": "/dsws-calendar-react/static/js/main.3105b82b.chunk.js"
+    "revision": "7c909bb3e09d1554ce73",
+    "url": "/dsws-calendar-react/static/js/main.df667a2e.chunk.js"
   },
   {
     "revision": "75e05297d890c48469d5",
